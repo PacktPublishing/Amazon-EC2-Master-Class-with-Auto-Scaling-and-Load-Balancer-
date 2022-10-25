@@ -37,3 +37,7 @@ N/A
 * [Managing EC2 and VPC: AWS with Python and Boto3 Series [Video]](https://www.packtpub.com/application-development/managing-ec2-and-vpc-aws-python-and-boto3-series-video)
 
 * [Learn to Build Amazon Alexa Skills and Converse with Machines [Video]](https://www.packtpub.com/application-development/learn-build-amazon-alexa-skills-and-converse-machines-video)
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781789342819">https://packt.link/free-ebook/9781789342819 </a> </p>
